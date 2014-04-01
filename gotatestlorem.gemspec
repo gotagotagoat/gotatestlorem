@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Gotatestlorem::VERSION
   spec.authors       = ["<gotagotagoat>"]
   spec.email         = ["<gotagotagoat@gmail.com>"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{Lorem ipsum generator [test program]}
+  spec.description   = %q{test program to practice making gem}
   spec.homepage      = ""
   spec.license       = "MIT"
 

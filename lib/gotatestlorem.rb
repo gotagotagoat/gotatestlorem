@@ -1,5 +1,7 @@
 require "gotatestlorem/version"
 
 module Gotatestlorem
-  # Your code goes here...
+  def self.ipsum
+    "Lorem ipsum dolor sit amet, consectetur adipisicing ...."
+  end
 end

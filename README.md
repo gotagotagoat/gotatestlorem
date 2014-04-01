@@ -1,6 +1,6 @@
 # Gotatestlorem
 
-TODO: Write a gem description
+test program to practice making gem
 
 ## Installation
 
@@ -16,9 +16,6 @@ Or install it yourself as:
 
     $ gem install gotatestlorem
 
-## Usage
-
-TODO: Write usage instructions here
 
 ## Contributing
 
